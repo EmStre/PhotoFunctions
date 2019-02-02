@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripPhotoFunction", "TripPhotoFunction\TripPhotoFunction.csproj", "{2F43C55C-7B06-4D83-AD04-D928D743EBB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PitstopPhotoFunction", "PitstopPhotoFunction\PitstopPhotoFunction.csproj", "{5BA33ADB-C918-45B3-9381-B30FA32F1E31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperClasses", "HelperClasses\HelperClasses.csproj", "{2740D8A1-7B01-4638-BB8D-75D16A14CA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F43C55C-7B06-4D83-AD04-D928D743EBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F43C55C-7B06-4D83-AD04-D928D743EBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F43C55C-7B06-4D83-AD04-D928D743EBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F43C55C-7B06-4D83-AD04-D928D743EBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA33ADB-C918-45B3-9381-B30FA32F1E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA33ADB-C918-45B3-9381-B30FA32F1E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA33ADB-C918-45B3-9381-B30FA32F1E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA33ADB-C918-45B3-9381-B30FA32F1E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2740D8A1-7B01-4638-BB8D-75D16A14CA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2740D8A1-7B01-4638-BB8D-75D16A14CA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2740D8A1-7B01-4638-BB8D-75D16A14CA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2740D8A1-7B01-4638-BB8D-75D16A14CA62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B46766D-A7F4-49B0-B966-0B792F3BB081}
+	EndGlobalSection
+EndGlobal
